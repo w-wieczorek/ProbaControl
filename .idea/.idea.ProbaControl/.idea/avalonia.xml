@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="ProbaControl/Views/MainWindow.axaml" value="ProbaControl/ProbaControl.csproj" />
+        <entry key="ProbaControl/Views/Widok1.axaml" value="ProbaControl/ProbaControl.csproj" />
+        <entry key="ProbaControl/Views/Widok2.axaml" value="ProbaControl/ProbaControl.csproj" />
+        <entry key="ProbaControl/Widok1.axaml" value="ProbaControl/ProbaControl.csproj" />
+        <entry key="ProbaControl/Widok2.axaml" value="ProbaControl/ProbaControl.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
